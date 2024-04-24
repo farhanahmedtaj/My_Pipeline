@@ -1,6 +1,5 @@
 pipeline {
     agent any
-    
     environment {
         DIRECTORY_PATH = 'E:\\T1 2024\\Professional Practice'
         TESTING_ENVIRONMENT = 'QA'
