@@ -5,7 +5,6 @@ pipeline {
         TESTING_ENVIRONMENT = 'QA'
         PRODUCTION_ENVIRONMENT = 'Farhan_Ahmed'
     }
-    
     stages {
         stage('Build') {
             steps {
